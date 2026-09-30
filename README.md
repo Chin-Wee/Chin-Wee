@@ -11,7 +11,7 @@
 
 <img src="./hd-about.svg" width="620" alt="about"/>
 
-> Senior developer and software architect based in Singapore.<br>
+> First Year Computer Science major based in Singapore.<br>
 > Real-time systems, graphics, simulation, and practical engineering.
 
 I build systems where visual quality, runtime performance, and maintainable architecture
