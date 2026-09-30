@@ -52,12 +52,3 @@ editorial layouts, physics, reduced-motion support, and a GitHub Pages export.
 
 <img src="./hd-about-this-page.svg" width="620" alt="about this page"/>
 
-Every graphic is committed to this repository and generated without an external
-profile-stat service. `scripts/make_portrait.py` converts the current GitHub avatar
-into the animated ASCII portrait, while `scripts/generate_stats.py` reads public
-GitHub activity and draws the remaining SVGs. A scheduled workflow refreshes them daily.
-
-The SVGs use a system monospace stack, adapt to GitHub light and dark themes, and
-animate with SMIL because scripts are stripped from README content. The visual
-direction is inspired by [andriidrok1/andriidrok1](https://github.com/andriidrok1/andriidrok1);
-the implementation and content here are original.
